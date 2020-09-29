@@ -21,6 +21,9 @@
   },
   "dependencies": {
     "axios": "^0.20.0",
-    "babel-polyfill": "^6.26.0"
+    "babel-polyfill": "^6.26.0",
+    "bootstrap": "^4.1.1",
+    "fractional": "^1.0.0",
+    "uniqid": "^5.2.0"
   }
 }
