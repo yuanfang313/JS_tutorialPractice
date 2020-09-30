@@ -1,4 +1,4 @@
 # JS_tutorialPractice
 
-* [Project Morkup](https://yuanfang313.github.io/JS_tutorialPractice/9-forkify/starter/src/index.html)
+* [Project Morkup](https://yuanfang313.github.io/JS_tutorialPractice/2-JS-basics/index.html)
  
